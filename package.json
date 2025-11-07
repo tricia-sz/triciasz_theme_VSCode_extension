@@ -1,0 +1,23 @@
+{
+  "name": "triciasz",
+  "displayName": "TrciaSZ",
+  "description": "TrciaSZ Theme and TrxBlues  Theme",
+  "publisher": "triciasz",
+  "author": "TríciaSz",
+  "version": "0.0.8",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "triciasz",
+        "uiTheme": "vs-dark",
+        "path": "./themes/triciasz-color-theme.json"
+      }
+    ]
+  }
+}
