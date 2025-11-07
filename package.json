@@ -1,10 +1,10 @@
 {
   "name": "triciasz",
-  "displayName": "TrciaSZ",
-  "description": "TrciaSZ Theme and TrxBlues  Theme",
+  "displayName": "TríciaSZ",
+  "description": "TríciaSZ Theme and TrxBlues  Theme",
   "publisher": "triciasz",
   "author": "TríciaSz",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.105.0"
   },
