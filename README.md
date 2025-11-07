@@ -1,16 +1,20 @@
-# triciasz README
+## TríciaSZ
+ ### EXTENSÃO PUBLICADA NA MICROSFT STORE
+🌏 [Extensão TriciaSz no VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=triciasz.triciasz)
 
-## Working with Markdown
+🌏 [Documentação do Yo Code (VS Code Docs)](https://vscode-docs.readthedocs.io/en/stable/tools/yocode/)
+</div>
+  <img width="1420" height="527" alt="image" src="https://github.com/user-attachments/assets/3f52cf69-97ff-43eb-ad1b-8c591dcfe4a8" />
+  <img width="1913" height="645" alt="image" src="https://github.com/user-attachments/assets/d3aff1bb-2687-4a89-93b0-6acc69d741a6" />
+</div>
+## In Back And
+<img width="951" height="1280" alt="image" src="https://github.com/user-attachments/assets/be00e550-c5d5-4548-8e97-309d125f1f9d" />
+<img width="1075" height="1333" alt="image" src="https://github.com/user-attachments/assets/9ee4cda1-0ae6-459a-85b7-34f90bf58ecb" />
+## Front-End Components
+<img width="988" height="1193" alt="image" src="https://github.com/user-attachments/assets/236f8f61-72bf-42d9-a713-e3912a405c59" />
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## 💎 Links úteis 💎
+<div align="center">
+<div data-badges>
+<img src="https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
