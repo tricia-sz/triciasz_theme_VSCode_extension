@@ -4,7 +4,8 @@
 
 🌏 [Documentação do Yo Code (VS Code Docs)](https://vscode-docs.readthedocs.io/en/stable/tools/yocode/)
 </div>
-  <img width="1420" height="527" alt="image" src="https://github.com/user-attachments/assets/3f52cf69-97ff-43eb-ad1b-8c591dcfe4a8" />
+  <img width="1915" height="428" alt="image" src="https://github.com/user-attachments/assets/6ff23325-213d-4c66-9db6-dfa785c83085" />
+
   <img width="1921" height="662" alt="image" src="https://github.com/user-attachments/assets/1940c0db-aba5-441d-9394-919a69c6f114" />
   <img width="1570" height="426" alt="image" src="https://github.com/user-attachments/assets/134b4be7-314a-4575-af2e-92d47eb9f0ff" />
 </div>
