@@ -1,4 +1,4 @@
-## TríciaSZ
+##  TríciaSZ 🎨🖌️  Theme for VS Code Extension 
  ### EXTENSÃO PUBLICADA NA MICROSFT STORE
 🌏 [Extensão TriciaSz no VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=triciasz.triciasz)
 
@@ -13,8 +13,6 @@
 ## Front-End Components
 <img width="988" height="1193" alt="image" src="https://github.com/user-attachments/assets/236f8f61-72bf-42d9-a713-e3912a405c59" />
 
-## 💎 Links úteis 💎
-<div align="center">
-<div data-badges>
-<img src="https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+## 💎 Created formated 💎
+
 
